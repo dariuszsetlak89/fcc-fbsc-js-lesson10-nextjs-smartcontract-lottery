@@ -11,6 +11,7 @@
 - [Deploying to IPFS](#deploying-to-ipfs)
 - [Deploy to IPFS using Fleek](#deploy-to-ipfs-using-fleek)
 - [Linting](#linting)
+- [Smart Contract Lottery Website](#smart-contract-lottery-website)
 
 # Getting Started
 
@@ -134,3 +135,9 @@ To check linting / code formatting:
 ```
 yarn lint
 ```
+
+# Smart Contract Lottery Website
+
+## Project Front-End website hosted on Fleek:
+
+[https://divine-sound-1979.on.fleek.co/](https://divine-sound-1979.on.fleek.co/)
