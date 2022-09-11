@@ -24,13 +24,15 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
+*.log
 
 # local env files
 .env*.local
+.env
+.encryptedKey.json
 
 # vercel
 .vercel
 
-# typescript
-*.tsbuildinfo
-next-env.d.ts
+# vscode
+.vscode
